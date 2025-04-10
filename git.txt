@@ -2,5 +2,5 @@ hello
 good morning
 happy newyear
 i am from hyd
-commit 1
-commit 2
+this is mohan 
+>>>>>>> origin/master
