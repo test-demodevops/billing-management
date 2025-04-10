@@ -3,7 +3,7 @@ kind: Pod
 metadata:
 name: nginx 
 spec:
-containers: 8080
+containers: 80
 - name: nginx
 image: nginx:latest
 
