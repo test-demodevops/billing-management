@@ -3,4 +3,8 @@ good morning
 happy newyear
 i am from hyd
 this is mohan 
+<<<<<<< HEAD
 >>>>>>> origin/master
+=======
+from bangolure 
+>>>>>>> 6e5fc07049dab224228240f1b30b957cf8b0d673
